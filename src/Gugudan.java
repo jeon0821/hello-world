@@ -61,7 +61,7 @@ public class Gugudan {
 		System.out.println(result[i]);
 	}
 	
-	int[] times4 = new int[9]; // 기존에 있던 9개의 값 덮어 씌우는 것.
+	int[] times4 = new int[9]; // 기존의 것과는 다른 배열.
 	for(int i = 0; i < times4.length; i++) {
 		times4[i] = 4 * (i + 1);
 	}
