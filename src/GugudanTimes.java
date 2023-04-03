@@ -1,4 +1,3 @@
-
 public class GugudanTimes {
 	public static int[] calculate(int times) {
 		int[] result = new int[9];
